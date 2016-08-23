@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html ng-app="root">
+<head>
+  <meta charset="UTF-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+  <link type="text/css" rel="stylesheet" href="./css/style.css" media="screen" />
+  <title>Title</title>
+</head>
+<body>
+  <div ng-controller="index">
+    <table>
+      <thead>
+      <tr>
+        <td>Id</td>
+        <td>Name</td>
+      </tr>
+      </thead>
+      <tbody>
+        <tr ng-repeat="product in products" ng-class="{oddRow: $odd, evenRow: $even}">
+          <td>{{product.id}}</td>
+          <td>{{product.name}}</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+<script src="js/root.js"></script>
+</body>
+</html>

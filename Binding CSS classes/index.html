@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html ng-app="root">
+<head>
+  <meta charset="UTF-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+  <link type="text/css" rel="stylesheet" href="./css/style.css" media="screen" />
+  <title>Title</title>
+</head>
+<body>
+  <div ng-controller="index">
+    <input type="text" ng-model="value" />
+    <span ng-class="{bold: isBold(), italic: isItalic(), underline: isUnderlined()}">
+      This text should change between bold, italic and underline depending on input
+    </span>
+  </div>
+<script src="js/root.js"></script>
+</body>
+</html>

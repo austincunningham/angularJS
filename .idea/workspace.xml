@@ -31,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="root.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="root.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/the value recipe/js/root.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -39,6 +39,48 @@
               <folding>
                 <element signature="e#0#43#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="root.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Binding CSS classes/js/root.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
+              <folding>
+                <element signature="e#0#43#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="root.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/the factory recipe/js/root.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/the factory recipe/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/the factory recipe/js/services.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -113,6 +155,9 @@
         <option value="$PROJECT_DIR$/Visibility/js/service.js" />
         <option value="$PROJECT_DIR$/the value recipe/index.html" />
         <option value="$PROJECT_DIR$/the value recipe/js/root.js" />
+        <option value="$PROJECT_DIR$/the factory recipe/js/services.js" />
+        <option value="$PROJECT_DIR$/the factory recipe/index.html" />
+        <option value="$PROJECT_DIR$/the factory recipe/js/root.js" />
       </list>
     </option>
   </component>
@@ -123,8 +168,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="186" />
-    <option name="y" value="46" />
+    <option name="x" value="80" />
     <option name="width" value="1370" />
     <option name="height" value="749" />
   </component>
@@ -197,7 +241,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="the value recipe" />
+              <option name="myItemId" value="the factory recipe" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -211,11 +255,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="the value recipe" />
+              <option name="myItemId" value="the factory recipe" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="angularJS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Binding CSS classes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -238,6 +296,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\austin\repo\angularJS\the factory recipe" />
       <recent name="C:\Users\austin\repo\angularJS\Repeaters" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -309,15 +368,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1471951869087</updated>
-      <workItem from="1471951871124" duration="10645000" />
+      <workItem from="1471951871124" duration="11838000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10645000" />
+    <option name="totallyTimeSpent" value="11838000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="186" y="46" width="1370" height="749" extended-state="0" />
+    <frame x="80" y="0" width="1370" height="749" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963072" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -354,16 +413,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Binding CSS classes/js/root.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/two way binding/js/root.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -434,16 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/the value recipe/js/services.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#43#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Visibility/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -460,6 +499,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/the factory recipe/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the factory recipe/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the value recipe/js/services.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/the value recipe/js/root.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -467,6 +532,24 @@
           <folding>
             <element signature="e#0#43#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Binding CSS classes/js/root.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="75" selection-start-line="9" selection-start-column="75" selection-end-line="9" selection-end-column="75" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/the factory recipe/js/root.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="55" selection-start-line="5" selection-start-column="55" selection-end-line="5" selection-end-column="55" />
+          <folding />
         </state>
       </provider>
     </entry>
